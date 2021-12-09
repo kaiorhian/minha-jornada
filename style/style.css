@@ -1,0 +1,28 @@
+html {
+    background-color: white;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+}
+header{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-family: 'Noto Sans Mono', monospace;
+}
+b, h2{
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+.principal {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Fjalla One', sans-serif;
+}
